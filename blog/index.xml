@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mohammad Tanvir Hasan</title>
+<link>https://tanvircr7.github.io/mtanvir/blog/</link>
+<atom:link href="https://tanvircr7.github.io/mtanvir/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal site and blog</description>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Wed, 27 Aug 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello, world</title>
+  <link>https://tanvircr7.github.io/mtanvir/blog/posts/hello-world/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Welcome to my site!</p>
+<p>This stack is intentionally simple:</p>
+<ul>
+<li>Write posts in Markdown (<code>.qmd</code> or <code>.md</code>).</li>
+<li>Local preview with <code>quarto preview</code>.</li>
+<li>Push to GitHub; GitHub Action builds and deploys to <strong>gh-pages</strong>.</li>
+</ul>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <category>true</category>
+  <category>meta</category>
+  <category>setup</category>
+  <guid>https://tanvircr7.github.io/mtanvir/blog/posts/hello-world/</guid>
+  <pubDate>Wed, 27 Aug 2025 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

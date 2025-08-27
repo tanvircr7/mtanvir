@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "taxonomy/index.html",
+    "href": "taxonomy/index.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Browse by topic. Click a category to filter posts.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Browse my posts below.\nUse categories/tags to filter topics.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nHello, world\n\n\n\ntrue\n\nmeta\n\nsetup\n\n\n\nKicking off my minimal site.\n\n\n\n\n\nAug 27, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "",
+    "text": "Welcome — this is my minimal site. I build AI systems and tooling for research automation, RAG, and agentic workflows."
+  },
+  {
+    "objectID": "index.html#what-im-focused-on",
+    "href": "index.html#what-im-focused-on",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "What I’m focused on",
+    "text": "What I’m focused on\n\nMulti-agent systems\nSteganography with Generative AI\nAI for Science\nSecurity"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Intern, Madabushi Lab, Georgia Tech & Emory (Aug 2025–Present)\nGraduate Assistant, University of Arkansas at Little Rock (Oct 2024–Present)\nSoftware Engineer, Tecpen (May 2023–Jul 2024)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "Education",
+    "text": "Education\n\nM.Sc., Computer Science, University of Arkansas at Little Rock (Aug 2024– )\nB.Sc., CSE, Khulna University of Engineering & Technology (Grad. 2023)"
+  },
+  {
+    "objectID": "index.html#selected-projects",
+    "href": "index.html#selected-projects",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "Selected projects",
+    "text": "Selected projects\n\nUALR Chatbot — RAG assistant for Admissions (LangGraph, Firebase, React, Docker).\n\nCorrective RAG — LangGraph + ChromaDB + Streamlit; web search backfill; live demo.\n\nMulti-Agent Recommendation System — AWS Bedrock supervisor w/ Lambda + S3.\n\nViT vs. CNN Image Classification — custom ViT vs EfficientNetB2; HuggingFace demo.\n\nUpliftt / Upliftt AI — Flutter app; AI integrations, guardrails."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Hi, I’m Mohammad Tanvir Hasan",
+    "section": "Publications",
+    "text": "Publications\n\nData Trading System Using Blockchain with Oracle Network. EICT 2023.\n\nEnhancing E-Voting Security with Blockchain-Backed Decentralized Authorization. EICT 2023.\n\n\nThis site is built with Quarto and deployed via GitHub Pages."
+  },
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Quick notes and scratchpads:\n\nKeep short, linkable snippets here.\nUse folders in notes/ if you want multiple pages."
+  },
+  {
+    "objectID": "blog/posts/hello-world/index.html",
+    "href": "blog/posts/hello-world/index.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "Welcome to my site!\nThis stack is intentionally simple:\n\nWrite posts in Markdown (.qmd or .md).\nLocal preview with quarto preview.\nPush to GitHub; GitHub Action builds and deploys to gh-pages.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
