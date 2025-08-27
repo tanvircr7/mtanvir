@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/taxonomy/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/posts/hello-world/index.html"
@@ -14,6 +10,10 @@
     "items": [
       "/blog/posts/hello-world/index.html"
     ]
+  },
+  {
+    "listing": "/taxonomy/index.html",
+    "items": []
   },
   {
     "listing": "/blog/posts/hello-world/index.html",

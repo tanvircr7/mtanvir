@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "taxonomy/index.html",
-    "href": "taxonomy/index.html",
-    "title": "Topics",
-    "section": "",
-    "text": "Browse by topic. Click a category to filter posts.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
@@ -61,6 +54,13 @@
     "title": "Notes",
     "section": "",
     "text": "Quick notes and scratchpads:\n\nKeep short, linkable snippets here.\nUse folders in notes/ if you want multiple pages."
+  },
+  {
+    "objectID": "taxonomy/index.html",
+    "href": "taxonomy/index.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Browse by topic. Click a category to filter posts.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/hello-world/index.html",
