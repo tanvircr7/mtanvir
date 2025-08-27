@@ -17,8 +17,10 @@ Welcome — this is my minimal site. I build AI systems and tooling for research
 - Email: <mthasan@ualr.edu>
 
 ## What I'm focused on
-- **Explainable AI for scientific discovery** and **AI-orchestrated research automation** (multi-agent pipelines, reproducibility).
+- **Multi-agent systems**
 - **Steganography with Generative AI**
+- **AI for Science**
+- **Security**
 
 ## Experience
 - **Research Intern**, *Madabushi Lab, Georgia Tech & Emory* (Aug 2025–Present) 
