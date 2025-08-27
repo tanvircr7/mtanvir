@@ -18,7 +18,7 @@ Welcome — this is my minimal site. I build AI systems and tooling for research
 
 ## What I'm focused on
 - **Multi-agent systems**
-- **Steganography with Generative AI**
+- **Steganography**
 - **AI for Science**
 - **Security**
 
