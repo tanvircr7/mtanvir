@@ -1,0 +1,46 @@
+---
+title: "Hi, I'm Mohammad Tanvir Hasan"
+page-layout: article
+listing:
+  contents: blog/posts
+  sort: "date desc"
+  type: default
+  max-items: 6
+  categories: cloud
+  filter-ui: true
+---
+
+Welcome — this is my minimal site. I build AI systems and tooling for research automation, RAG, and agentic workflows.
+
+- GitHub: <https://github.com/tanvircr7>
+- LinkedIn: <https://www.linkedin.com/in/mdthasan>
+- Email: <mthasan@ualr.edu>
+
+## What I'm focused on
+- **Explainable AI for scientific discovery** and **AI-orchestrated research automation** (multi-agent pipelines, reproducibility).
+- **Steganography with Generative AI**
+
+## Experience
+- **Research Intern**, *Madabushi Lab, Georgia Tech & Emory* (Aug 2025–Present) 
+- **Graduate Assistant**, *University of Arkansas at Little Rock* (Oct 2024–Present)
+- **Software Engineer**, *Tecpen* (May 2023–Jul 2024) 
+
+## Education
+- **M.Sc., Computer Science**, *University of Arkansas at Little Rock* (Aug 2024– )
+- **B.Sc., CSE**, *Khulna University of Engineering & Technology* (Grad. 2023)
+
+## Selected projects
+- **UALR Chatbot** — RAG assistant for Admissions (LangGraph, Firebase, React, Docker).  
+- **Corrective RAG** — LangGraph + ChromaDB + Streamlit; web search backfill; [live demo](https://tanvir-corrective-rag.streamlit.app/).  
+- **Multi-Agent Recommendation System** — AWS Bedrock supervisor w/ Lambda + S3.  
+- **ViT vs. CNN Image Classification** — custom ViT vs EfficientNetB2; [HuggingFace demo](https://huggingface.co/spaces/tanvircr7/foodvision).  
+- **Upliftt / Upliftt AI** — Flutter app; AI integrations, guardrails.
+
+## Publications
+- **Data Trading System Using Blockchain with Oracle Network.** *EICT 2023*.  
+- **Enhancing E-Voting Security with Blockchain-Backed Decentralized Authorization.** *EICT 2023*.
+
+
+
+> This site is built with [Quarto](https://quarto.org) and deployed via GitHub Pages.
+

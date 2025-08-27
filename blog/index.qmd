@@ -1,0 +1,14 @@
+---
+title: "Blog"
+page-layout: article
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: cloud        # or: numbered | unnumbered | true
+  filter-ui: true
+  feed: true
+---
+
+Browse my posts below.  
+Use categories/tags to filter topics.

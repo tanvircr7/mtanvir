@@ -1,0 +1,14 @@
+---
+title: "Hello, world"
+date: 2025-08-27
+description: "Kicking off my minimal site."
+categories: [meta, setup]
+---
+
+Welcome to my site!
+
+This stack is intentionally simple:
+
+- Write posts in Markdown (`.qmd` or `.md`).
+- Local preview with `quarto preview`.
+- Push to GitHub; GitHub Action builds and deploys to **gh-pages**.

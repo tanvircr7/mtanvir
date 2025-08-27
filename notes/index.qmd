@@ -1,0 +1,9 @@
+---
+title: "Notes"
+page-layout: article
+---
+
+Quick notes and scratchpads:
+
+- Keep short, linkable snippets here.
+- Use folders in `notes/` if you want multiple pages.

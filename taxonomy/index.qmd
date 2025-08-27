@@ -1,0 +1,12 @@
+---
+title: "Topics"
+page-layout: article
+listing:
+  contents: ../blog/posts
+  sort: "date desc"
+  type: default
+  categories: cloud     # or: numbered | unnumbered | true
+  filter-ui: true
+---
+
+Browse by topic. Click a category to filter posts.

@@ -1,0 +1,8 @@
+_site/
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.quarto/
+
+/.quarto/

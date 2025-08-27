@@ -1,0 +1,21 @@
+/* Minimal tweaks; keep it clean */
+:root {
+  scroll-behavior: smooth;
+}
+/* Navbar background + text color */
+.navbar {
+  background-color: #003366 !important;  /* deep blue */
+}
+
+.navbar a,
+.navbar-brand {
+  color: #ffffff !important;             /* white links/text */
+}
+
+/* Navbar link hover */
+.navbar a:hover {
+  color: #ffcc00 !important;             /* gold hover */
+}
+
+.quarto-title h1 { letter-spacing: -0.02em; }
+footer { font-size: 0.9rem; }

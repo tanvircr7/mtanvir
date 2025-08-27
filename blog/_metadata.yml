@@ -1,0 +1,9 @@
+# Blog metadata
+listing:
+  sort: "date desc"
+feed: true
+
+# Enable tags & categories taxonomy
+filters:
+  - quarto
+categories: true
